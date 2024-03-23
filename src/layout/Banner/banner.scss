@@ -1,0 +1,21 @@
+.carousel_banner{
+    .slick-next{
+        // background-color: red;;
+        right: 30px;
+        color: white;
+        font-size: 16px;
+        &::before{
+            display: none;
+        }
+    }
+    .slick-prev{
+        // background-color: red;;
+        left: 30px;
+        color: white;
+        font-size: 16px;
+        z-index: 2;
+        &::before{
+            display: none;
+        }
+    }
+}

@@ -6,4 +6,4 @@ Mot so thu vien can cai dat trong du an
 - sass
 - antd
 - formik va yup
-- 
+- truncate(tailwind) di voi width cua the cha
